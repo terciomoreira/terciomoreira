@@ -1,6 +1,6 @@
 # Olá, eu sou o Tércio Moreira 👋
 
-Backend Engineer especializado em ecossistema Python e integrações de Inteligência Artificial. Atualmente focado no desenvolvimento de APIs modernas e automações inteligentes para o mercado europeu (Remoto / Freelance B2B).
+Backend Programador especializado em ecossistema Python e integrações de Inteligência Artificial. Atualmente focado no desenvolvimento de APIs modernas e automações inteligentes para o mercado europeu (Remoto / Freelance B2B).
 
 ## 🛠️ Stack Tecnológica
 * **Linguagens:** Python (3.x)
